@@ -1,0 +1,9 @@
+{
+    "name": "ndsirius/homework",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "SuperProject\\": "homework25"
+        }
+    }
+}
